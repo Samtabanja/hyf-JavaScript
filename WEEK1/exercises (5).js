@@ -1,6 +1,17 @@
-var z = 7.25
-var a = Math.round (z) ;
-console.log('the value of my string will be: 7');
+var w = [] ;
+console.log('the value of my string will be: [] ');
 
-var h = Math.max(a,z)
-console.log('the value of my string will be: 7.25');
+var myAnimals = ["dog","cat"] ;
+console.log(myAnimals);
+console.log('the value of my string will be: ["dog","cat"] ');
+
+
+myAnimals.push("baby pig");
+console.log(myAnimals);
+console.log('the value of my string will be: ["dog", "cat", "baby pig"]');
+
+
+
+
+
+

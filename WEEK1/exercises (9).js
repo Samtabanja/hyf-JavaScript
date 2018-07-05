@@ -1,6 +1,4 @@
-var x = 7 ;
-var y = 3 ;
-var a = x / y ;
-var b = x % y ;
-console.log (Math.floor(a) + " Quotient  " ) ;
-console.log ( "the value of 'x' is The reminder  : " + b );
+var a = [ 1 ,2 ,3 , "sam , ,mrwan"];
+console.log(a);
+
+console.log(6 / 0 === 10 / 0); 

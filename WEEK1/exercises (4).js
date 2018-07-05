@@ -1,6 +1,6 @@
-var y =     "Sam"
-console.log('the value of my string will be: Sam');
+var z = 7.25
+var a = Math.round (z) ;
+console.log('the value of my string will be: 7');
 
- y = "Sam2" 
- console.log('the value of my string will be: Sam2');
-
+var h = Math.max(a,z)
+console.log('the value of my string will be: 7.25');

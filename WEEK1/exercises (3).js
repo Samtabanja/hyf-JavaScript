@@ -1,6 +1,6 @@
-var x;
-console.log('the value of variable x will be: undefined');
-console.log(x);
-x = "Sam" ;
-console.log("the value of variable x will be: Sam");
-console.log(x);
+var y =     "Sam"
+console.log('the value of my string will be: Sam');
+
+ y = "Sam2" 
+ console.log('the value of my string will be: Sam2');
+
